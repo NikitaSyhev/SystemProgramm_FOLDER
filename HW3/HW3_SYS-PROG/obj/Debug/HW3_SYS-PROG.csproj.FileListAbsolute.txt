@@ -1,0 +1,11 @@
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW3\HW3_SYS-PROG\obj\Debug\HW3_SYS-PROG.csproj.AssemblyReference.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW3\HW3_SYS-PROG\obj\Debug\HW3_SYS-PROG.csproj.SuggestedBindingRedirects.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW3\HW3_SYS-PROG\obj\Debug\HW3_SYS_PROG.Form1.resources
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW3\HW3_SYS-PROG\obj\Debug\HW3_SYS_PROG.Properties.Resources.resources
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW3\HW3_SYS-PROG\obj\Debug\HW3_SYS-PROG.csproj.GenerateResource.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW3\HW3_SYS-PROG\obj\Debug\HW3_SYS-PROG.csproj.CoreCompileInputs.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW3\HW3_SYS-PROG\bin\Debug\HW3_SYS-PROG.exe.config
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW3\HW3_SYS-PROG\bin\Debug\HW3_SYS-PROG.exe
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW3\HW3_SYS-PROG\bin\Debug\HW3_SYS-PROG.pdb
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW3\HW3_SYS-PROG\obj\Debug\HW3_SYS-PROG.exe
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW3\HW3_SYS-PROG\obj\Debug\HW3_SYS-PROG.pdb

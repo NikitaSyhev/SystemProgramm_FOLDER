@@ -1,0 +1,11 @@
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW2\HW_2_SYS_PROG\bin\Debug\HW_2_SYS_PROG.exe.config
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW2\HW_2_SYS_PROG\bin\Debug\HW_2_SYS_PROG.exe
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW2\HW_2_SYS_PROG\bin\Debug\HW_2_SYS_PROG.pdb
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW2\HW_2_SYS_PROG\obj\Debug\HW_2_SYS_PROG.csproj.AssemblyReference.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW2\HW_2_SYS_PROG\obj\Debug\HW_2_SYS_PROG.csproj.SuggestedBindingRedirects.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW2\HW_2_SYS_PROG\obj\Debug\HW_2_SYS_PROG.Form1.resources
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW2\HW_2_SYS_PROG\obj\Debug\HW_2_SYS_PROG.Properties.Resources.resources
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW2\HW_2_SYS_PROG\obj\Debug\HW_2_SYS_PROG.csproj.GenerateResource.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW2\HW_2_SYS_PROG\obj\Debug\HW_2_SYS_PROG.csproj.CoreCompileInputs.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW2\HW_2_SYS_PROG\obj\Debug\HW_2_SYS_PROG.exe
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW2\HW_2_SYS_PROG\obj\Debug\HW_2_SYS_PROG.pdb

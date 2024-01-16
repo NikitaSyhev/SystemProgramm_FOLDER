@@ -1,0 +1,6 @@
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL3\Library3\bin\Debug\Library3.dll
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL3\Library3\bin\Debug\Library3.pdb
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL3\Library3\obj\Debug\Library3.csproj.AssemblyReference.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL3\Library3\obj\Debug\Library3.csproj.CoreCompileInputs.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL3\Library3\obj\Debug\Library3.dll
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL3\Library3\obj\Debug\Library3.pdb

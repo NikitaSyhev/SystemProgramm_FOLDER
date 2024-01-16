@@ -1,0 +1,6 @@
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL2\Library.Task2\bin\Debug\Library.Task2.dll
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL2\Library.Task2\bin\Debug\Library.Task2.pdb
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL2\Library.Task2\obj\Debug\Library.Task2.csproj.AssemblyReference.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL2\Library.Task2\obj\Debug\Library.Task2.csproj.CoreCompileInputs.cache
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL2\Library.Task2\obj\Debug\Library.Task2.dll
+C:\Users\nosychev\Desktop\Programmatic\Системное програмирование\HW1\DLL2\Library.Task2\obj\Debug\Library.Task2.pdb
